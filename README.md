@@ -1,6 +1,6 @@
 # Lab 4 - Analise e Design.
 
-## Diferenças em Classe Abstrata e Interface.
+## Diferenças entre Classe Abstrata e Interface.
 
 **Classe Abstrata:**
 - Pode possuir métodos implementados e abstratos;
