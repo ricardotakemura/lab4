@@ -18,7 +18,7 @@ Quando as únicas características importantes do objeto abstrato são suas aç�
 
 **Quando usar uma classe abstrata?**
 
-Quando o objeto abstrato alguma caracteristicas (propriedades) e não só ações (método). Um exemplo é a classe “Automovel” (que possue uma propriedade chamada “motor”).
+Quando o objeto abstrato alguma caracteristicas (propriedades) e não só ações (método). Um exemplo é a classe “Automovel” (que possui uma propriedade chamada “motor”).
 
 ## Quando usar Herança, Composição, Agregação e Relacionamento?
 
