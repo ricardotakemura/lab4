@@ -18,7 +18,14 @@ public class PropertiesTest {
 	}
 
 	@Test
-	public void testPutAndGetProperty() {
+	public void testPutAndGetPropertyWithString() {
+		Properties properties = new Properties();
+		properties.put("id", "1");
+		Assert.assertEquals("1", properties.getProperty("id"));
+	}
+
+	@Test
+	public void testPutAndGetPropertyWithNumber() {
 		Properties properties = new Properties();
 		properties.put("id", 1);
 		Assert.assertEquals(String.valueOf(1), properties.getProperty("id"));
